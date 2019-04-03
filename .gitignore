@@ -1,5 +1,6 @@
 # API key file
 config.py
+api_keys.py
 
 # Jupyter checkpoints
 .ipynb_checkpoints
