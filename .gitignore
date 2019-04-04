@@ -1,6 +1,7 @@
 # API key file
 config.py
 api_keys.py
+imdb_data
 
 # MacOS data file
 .DS_Store
